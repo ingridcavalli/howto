@@ -1,0 +1,105 @@
+.geral {
+    width: 900px;
+    margin: auto;
+    
+}
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    background: rgb(201, 199, 196);
+}
+
+.tags {
+    margin: auto;
+    width: 1000px;
+    background: rgb(180, 176, 175);
+    border: 5px solid #199f89; 
+    float: right;
+
+}
+
+.title1 { 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.title2 {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+}
+
+.taghtml {
+ margin: 12px;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: 15px;
+}
+
+.tagbody {
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.tagh1h6{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.tagp{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.tagdiv{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.tagpre{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.tagspan{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+
+.seletores{
+    margin: auto;
+    width: 1000px;
+    background: rgb(189, 186, 186);
+    border: 5px solid #3d4140; 
+    float: left;
+}
+
+.title3{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+}
+
+.css{
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.classe {
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.id {
+    margin: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
